@@ -1,0 +1,7 @@
+metric,value
+similarity_threshold,0.6
+test_users,33901.0
+total_recs,289738.0
+avg_recs_per_user,8.546591545972095
+users_with_recs,29661.0
+distinct_courses,63.0

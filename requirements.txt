@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+scikit-surprise
+tensorflow>=2.15
+matplotlib>=3.7
+jupyter
+python-pptx   # report/source/build_report.py
+wordcloud

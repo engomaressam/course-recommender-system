@@ -1,0 +1,10 @@
+metric,value
+optimal_k,8.0
+pca_components,9.0
+optimal_k_pca,8.0
+popularity_threshold,500.0
+test_users,33901.0
+total_recs,466094.0
+avg_recs_per_user,13.748679979941596
+users_with_recs,33381.0
+distinct_courses,50.0
