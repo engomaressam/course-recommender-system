@@ -1,0 +1,5 @@
+model,test_rmse,epochs
+"RecommenderNet (lab, 16-d)",0.11924844235181808,10
+"RecommenderNetV2 (16-d, dense head)",0.07624304294586182,3
+"RecommenderNetV2 (32-d, dense head)",0.07404037564992905,3
+Global-mean baseline,0.20853910183395474,0

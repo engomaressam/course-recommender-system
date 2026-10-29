@@ -1,0 +1,7 @@
+model,best_params,test_rmse
+LinearRegression,-,0.8138346209967071
+Ridge,{'alpha': 100},0.813829831172954
+Lasso,{'alpha': 0.001},0.8138177875012098
+ElasticNet,"{'alpha': 0.001, 'l1_ratio': 0.5}",0.8138177875012098
+HistGradientBoosting,"{'learning_rate': 0.05, 'max_depth': 3}",0.8138416030994979
+Global-mean baseline,-,0.8138177875012098

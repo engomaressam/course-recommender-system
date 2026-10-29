@@ -1,0 +1,4 @@
+metric,value
+knn_rmse_cosine_k40,0.8954940723909457
+best_knn_rmse,0.8954940723909457
+baseline_rmse,0.8172025269107884
