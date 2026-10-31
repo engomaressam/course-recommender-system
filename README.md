@@ -8,6 +8,7 @@ Capstone of the IBM Machine Learning Professional Certificate (October 2026). Th
 | Benchmark notebook | [`notebooks/benchmark_collaborative_filtering.ipynb`](notebooks/benchmark_collaborative_filtering.ipynb): every collaborative-filtering model on one common split |
 | Results | `results/` (every number in the report as CSV) |
 | Data | `data/course_genre.csv`, `data/course_processed.csv` (course catalogue with 14 genre flags and course text) |
+| Also on | [omaressam.web.app](https://omaressam.web.app/#projects) |
 
 The eleven guided lab notebooks that built each recommender step by step are IBM course templates and are not republished here; the benchmark notebook, the report, its generator and all result tables are this project's own work.
 
